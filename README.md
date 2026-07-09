@@ -42,19 +42,6 @@ I build modern web apps, immersive 3D interfaces, and AI-powered tools — while
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrabhatBargoti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhatBargoti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=PrabhatBargoti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Connect
 
 <p align="left">
@@ -65,3 +52,5 @@ I build modern web apps, immersive 3D interfaces, and AI-powered tools — while
 </p>
 
 <p align="center"><i>Code. Build. Learn. Repeat.</i></p>
+
+<p align="center">⭐ If you like my projects, don't forget to star the repositories!</p>
