@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br><br>🔭 I’m currently working on<br>→ Full-stack projects & SaaS ideas that solve real-world problems<br><br>👯 I’m looking to collaborate on<br>→ Open-source projects, web apps & interesting developer tools<br><br>🤝 I’m looking for help with<br>→ Backend architecture & AI engineering<br><br>🌱 I’m currently learning<br>→ React, Node.js, Express, MongoDB, Next.js, PostgreSQL, Supabase & AI/ML<br><br>💬 Ask me about<br>→ Web development, JavaScript, React, building projects & SaaS<br><br>⚡ Fun fact<br>→ I’m a student who loves turning ideas into working projects 🚀
+🔭 I’m currently working on<br>→ Full-stack projects & SaaS ideas that solve real-world problems<br><br>👯 I’m looking to collaborate on<br>→ Open-source projects, web apps & interesting developer tools<br><br>🤝 I’m looking for help with<br>→ Backend architecture & AI engineering<br><br>🌱 I’m currently learning<br>→ React, Node.js, Express, MongoDB, Next.js, PostgreSQL, Supabase & AI/ML<br><br>💬 Ask me about<br>→ Web development, JavaScript, React, building projects & SaaS<br><br>⚡ Fun fact<br>→ I’m a student who loves turning ideas into working projects 🚀
 
 
 ## 🌐 Socials:
