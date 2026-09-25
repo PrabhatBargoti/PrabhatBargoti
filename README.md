@@ -15,5 +15,3 @@ About Me<br><br>🔭 I’m currently working on<br>→ Full-stack projects & Saa
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PrabhatBargoti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrabhatBargoti&limit=5&theme=dark&combine_all_yearly_contributions=true)
