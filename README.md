@@ -11,7 +11,3 @@ About Me<br><br>🔭 I’m currently working on<br>→ Full-stack projects & Saa
 ![](https://github-readme-stats.shion.dev/api?username=PrabhatBargoti&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=PrabhatBargoti&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrabhatBargoti&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PrabhatBargoti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
